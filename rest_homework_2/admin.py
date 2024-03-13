@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from homework_rest.models import Fruits
+from rest_homework_2.models import Fruits
 
 
 @admin.register(Fruits)

@@ -28,7 +28,7 @@ INSTALLED_APPS = [
 ] + [
     'rest_framework',
 ] + [
-    'homework_rest',
+    'homework_rest','rest_homework_2'
 ]
 
 MIDDLEWARE = [
